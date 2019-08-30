@@ -3,8 +3,8 @@
 
 ## Repository Links
 
--Repo Link
--Hosted Page Link
+- https://github.com/DCoop25/web-apps-mod1
+- https://dcoop25.github.io/web-apps-mod1/
 
 
 
