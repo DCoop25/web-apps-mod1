@@ -27,4 +27,4 @@ Web Development and the rest of computer sceince are vast fields with an uncount
 ## Contributors
 My name is Dylan Rongey, I am computer science major, and here's the best photo I could find on my desktop!
 
-	![My coworkers and I](image.jpg)
+	![My coworkers and I](Capture.PNG)
